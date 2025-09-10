@@ -76,7 +76,7 @@
             
             <!-- 主按钮组 -->
             <div class="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-                <a href="https://lc.i6ls.com//links/BFB74B07" target="_blank" class="inline-flex items-center px-8 py-4 bg-white text-indigo-600 font-semibold rounded-2xl shadow-lg shadow-white/30 hover:shadow-white/50 hover:shadow-[0_0_30px_rgba(255,255,255,0.5)] hover:-translate-y-0.5 hover:scale-105 transition-all duration-300" onclick="trackEvent(&#39;purchase_click&#39;)">
+                <a href="https://1c.i6ls.com//links/98ED10F2" target="_blank" class="inline-flex items-center px-8 py-4 bg-white text-indigo-600 font-semibold rounded-2xl shadow-lg shadow-white/30 hover:shadow-white/50 hover:shadow-[0_0_30px_rgba(255,255,255,0.5)] hover:-translate-y-0.5 hover:scale-105 transition-all duration-300" onclick="trackEvent(&#39;purchase_click&#39;)">
                     <span>💎 购买卡密</span>
                 </a>
                 <a href="https://www.ow521.com/" target="_blank" class="inline-flex items-center px-8 py-4 bg-transparent border-2 border-white text-white font-semibold rounded-2xl hover:bg-white hover:text-indigo-600 hover:-translate-y-0.5 transition-all duration-300" onclick="trackEvent(&#39;recharge_click&#39;)">
@@ -246,14 +246,14 @@
                             <div class="p-4 bg-green-50 rounded-xl border border-green-200">
                                 <p class="text-gray-700 mb-2">专属客服微信：</p>
                                 <div class="flex items-center justify-between">
-                                    <span class="font-mono text-lg font-semibold text-green-700">lxs_614205772</span>
+                                    <span class="font-mono text-lg font-semibold text-green-700">wangzhong968176</span>
                                     <button onclick="copyWechat()" class="px-4 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors text-sm">
                                         复制微信号
                                     </button>
                                 </div>
                             </div>
                             <div class="text-sm text-gray-500 bg-gray-50 p-3 rounded-lg">
-                                <p>💡 温馨提示：已添加过 <span class="font-mono">lxs_614205772</span> 的用户无需重复添加</p>
+                                <p>💡 温馨提示：已添加过 <span class="font-mono">wangzhong968176</span> 的用户无需重复添加</p>
                             </div>
                         </div>
                     </div>
@@ -320,7 +320,7 @@
                             <span class="mr-2 text-2xl">👥</span>
                             <span class="font-semibold text-lg">需要代理价优惠？</span>
                             <span class="mx-3 text-orange-500">→</span>
-                            <span class="font-mono bg-orange-100 px-4 py-2 rounded-lg text-orange-700 font-semibold">微信: lxs_614205772</span>
+                            <span class="font-mono bg-orange-100 px-4 py-2 rounded-lg text-orange-700 font-semibold">微信: wangzhong968176</span>
                         </div>
                     </div>
                 </div>
@@ -336,7 +336,7 @@
             <div class="flex flex-col sm:flex-row gap-6 justify-center mb-8">
                 <div class="flex items-center justify-center text-gray-400">
                     <span class="mr-2">💬</span>
-                    <span>客服微信: lxs_614205772</span>
+                    <span>客服微信: wangzhong968176</span>
                 </div>
                 <div class="flex items-center justify-center text-gray-400">
                     <span class="mr-2">📱</span>
@@ -385,7 +385,7 @@
 
         // 复制微信号功能
         function copyWechat() {
-            const wechatId = 'lxs_614205772';
+            const wechatId = 'wangzhong968176';
             if (navigator.clipboard && window.isSecureContext) {
                 navigator.clipboard.writeText(wechatId).then(() => {
                     showToast('微信号已复制到剪贴板！');
